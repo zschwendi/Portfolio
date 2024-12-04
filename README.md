@@ -1,5 +1,5 @@
 # Portfolio
-# [Your Name]'s Portfolio
+# Zach Schwendiman's Portfolio
 
 Welcome to my portfolio! Here, you'll find a collection of projects I've worked on, showcasing my skills in iOS development.
 
